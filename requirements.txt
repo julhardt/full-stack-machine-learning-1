@@ -90,3 +90,4 @@ websocket-client==1.2.3
 xgboost==1.6.2
 zipp==3.6.0
 pyreadstat==1.2.7
+pathlib3x==2.0.3
