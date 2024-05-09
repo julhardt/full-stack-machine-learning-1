@@ -1,8 +1,10 @@
 ##JH Daten einlesen und aufbereiten
 
-import pandas as pd
-import os
 from pathlib import Path
+# import os
+import openpyxl
+
+import pandas as pd
 import numpy as np
 import pyreadstat as stat
 
